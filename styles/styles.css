@@ -1,0 +1,28 @@
+.container {
+  display: flexbox;
+}
+
+.container img {
+  display: flex;
+  max-width: 250px;
+  float: left;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+}
+
+#personalbackground {}
+
+#experience {
+  float: right;
+}
+
+#programmingLanguages {}
+
+#achievements {
+  float: left;
+}
+
+#games {}
